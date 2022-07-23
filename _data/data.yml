@@ -41,35 +41,29 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Creative and results oriented same time well organized with great analytical skills, high responsibility, desire and ability to learn and eager to grow own skill-set.
+      Experienced in software projects development (functional consulting, testing, scrum mastering etc.) using Agile methodologies, also within LeSS (Large Scale Scrum) framework
+      Experience writing automated tests (pytest, Selenium) as well
+      Excellent knowledge of psychology
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Master's degree, with Excellence (red diploma)
+      university: University of Latvia
+      time: 2012 - 2015
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+          - Specialization: Clinical Psychology
+    - degree: Bachelor's degree, Psychology
+      university: University of Latvia
+      time: 2009 - 2012
+    - degree: Bachelor's degree, Business Administration
+      university: University of Latvia
+      time: 2003 - 2007
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Specialization: Business Informatatics
+     - degree:  Secondary education
+      university: Rigas Imantas secondary school
+      time: 1991 - 2003
+      details: |
+          - Specialization: mathematics, natural sciences and technology
 experiences:
     - role: Lead Developer
       time: 2015 - Present
