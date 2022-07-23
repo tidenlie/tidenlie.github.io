@@ -126,7 +126,7 @@ experiences:
       details: |
           Analyse sales data, do market research, prepare reports, train medical representatives to work with specific software, translating etc.
           (2005-2007 titles were: Pharmaceutical Department, Assistant of Head of OTC Department and Pharmaceutical Department, Marketing Assistant)r
-projects:
+courses:
     title: Projects
     intro: >
       -
@@ -139,16 +139,16 @@ projects:
         link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-publications:
-    title: Publications
-    intro: |
-      -
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
+certifications:
+    certification: Certified LeSS Practitioner
+      -  Issued by: The LeSS Company
+      -  Issued: 2019
+    certification: ISTQB Certified Tester - Foundation Level Extension, Agile Tester
+      -  Issued by: iSQI Group
+      -  Issued: 2016
+    certification: ISQTB Certified Tester - Foundation Level
+      -  Issued by: iSQI Group
+      -  Issued: 2015
 skills:
     title: Skills &amp; Proficiency
 
