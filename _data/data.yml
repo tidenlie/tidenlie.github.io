@@ -39,7 +39,7 @@ sidebar:
         link:
 
 career-profile:
-    title: Career Profile
+    title: About
     summary: |
       Creative and results oriented same time well organized with great analytical skills, high responsibility, desire and ability to learn and eager to grow own skill-set.
       Experienced in software projects development (functional consulting, testing, scrum mastering etc.) using Agile methodologies, also within LeSS (Large Scale Scrum) framework
@@ -65,49 +65,71 @@ education:
       details: |
           - Specialization: mathematics, natural sciences and technology
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Quality assurance engineer
+      company: Evolution
+      time: 2020 - Present
+      business field: Gaming
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        - Business field: video-streamed Live Dealer gaming
+        - Manual frontend (Web UI and mobile) and Backend testing
+        - Visual and e2e automated tests creation and maintenance
+        - Technologies, skills: Cucumber, WebdriverIO, Typescript, GitLab, GiT, Jenkins, JIRA
+    - role: Senior Test Engineer
+      company: TietoEvery
+      time: 2019 - 2020
+      business field: Payment card industry
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        - Main focus on Acquiring solution functional testing. 
+        - Automated tests creation and maintenance
+        - Technologies, skills: pytest, Selenium, Bitbucket, GiT, Jenkins, JIRA
+    - role: Scrum Master
+      company: TietoEvery
+      time: 2018 - 2019
+      business field: Payment card industry
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Scrum master role within LeSS (Large Scale Scrum) framework
+    - role: Test Engineer
+      company: TietoEvery
+      time: 2017 - 2019
+      business field: Payment card industry
+      details: |
+        - Main focus on Acquiring solution functional testing. 
+        - Automated tests creation and maintenance
+        - Technologies, skills: pytest, Selenium, Bitbucket, GiT, Jenkins, JIRA
+    - role: Functional Consultant
+      company: TietoEvery
+      time: 2013 - 2016
+      details: |
+        - Involvement in web-development projects using Agile methodologies
+        - Expertise of functionality, functional testing, user training
+        - Activities which are related with system development (analyzing customer requirements, testing, writing user stories, tests, user manuals)
+        - User support, maintenance, investigation, managing and coordination of requests and incidents, including Tieto internal web applications of Oracle-based ERP system
+        - Communication with users, consulting them
+        - Communication with Oracle support specialists
+    - role: Master Data Maintenance (MDM) specialist
+      company: TietoEvery
+      time: 2012 - 2013
+      details: |
+        - Master data maintenance in Oracle-based ERP system. Ensure entered data quality and accuracy. Develop data quality checks for various finance master data entities
+        - Maintenance of Customer Master Data (including billing information and setups)
+        - Maintenance of Finance Master Data (accounts, project templates, cost rates etc.)
+        - User support
+        - Provide Oracle SQL introduction courses/ training sessions (SQL select queries, work with SQL Developer
+    - role: Latvian proofreader (freelance)
+      company: Skrivanek
+      time: 2010 - 2015
+      details: |
+         Proofreader + editor + terminologist
+    - role: Project Manager at Pharmaceutical Department
+      company: Sirowa
+      time: 2005 - 2009
+      details: |
+          Analyse sales data, do market research, prepare reports, train medical representatives to work with specific software, translating etc.
+          (2005-2007 titles were: Pharmaceutical Department, Assistant of Head of OTC Department and Pharmaceutical Department, Marketing Assistant)r
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      -
     assignments:
       - title: Velocity
         link: "#hook"
@@ -117,39 +139,15 @@ projects:
         link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+      -
     papers:
       - title: The Art of Computer Programming
         link: "#"
         authors: Donald E. Knuth
         conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
