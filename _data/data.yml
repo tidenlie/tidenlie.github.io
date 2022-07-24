@@ -153,23 +153,32 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: JIRA, Pivotal Tracker
+        level: 100%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Agile, Scrum
+        level: 100%
 
-      - name: Angular
-        level: 98%
+      - name: git, gitlab, Bitbucket
+        level: 80%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Jenkins
+        level: 70%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Allure
+        level: 70%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Cucumber
+        level: 90%
+        
+      - name: Webdriver IO
+        level: 70%
+
+      - name: Javascript, Typescript
+        level: 50%
+        
+      - name: Python
+        level: 50%        
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
