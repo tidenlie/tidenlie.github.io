@@ -19,7 +19,6 @@ sidebar:
     github: tidenlie
     twitter: '@Tiidena'
     goodreads: 33726482-liena-t-dena
-    pdf: http://www.africau.edu/images/default/sample.pdf
 
     languages:
       - idiom: Latvian
@@ -157,41 +156,60 @@ projects:
     assignments:
       - title: Web portal development. Modern web technologies for software development
         tagline: Riga Technical University
-      - title: DevStudio
+      - title: SQL Fundamentals
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
+        tagline: SoloLearn
+      - title: Python 3 Tutorial
+        link: "#"
+        tagline: SoloLearn
+      - title: Programming Basics in C++
+        link: "#"
+        tagline: Latvia University of Agriculture
+      - title: Programming in Pascal, 1st part
+        link: "#"
+        tagline: SLatvia University of Agriculture
+      - title: MS Excel Expert (MOS)
+        link: "#"
+        tagline: Baltijas Datoru Akadēmija
+      - title: JavaScript - The Complete Guide 2021 (Beginner + Advanced)
+        link: "#"
+        tagline: Udemy
+      - title: Introduction to python, certificate with distinction
+        link: "#"
+        tagline: JavaGuru
+      - title: HTML Fundamentals
+        link: "#"
+        tagline: SoloLearn
+      - title: General English course - Upper-Int. II, Advanced II
+        link: "#"
+        tagline: Lingua Franca
+      - title: Business Emails in English
+        link: "#"
+        tagline: LFI
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
       - name: JIRA, Pivotal Tracker
         level: 100%
-
       - name: Agile, Scrum
         level: 100%
-
       - name: git, gitlab, Bitbucket
         level: 80%
-
       - name: Jenkins
         level: 70%
-
       - name: Allure
         level: 70%
-
       - name: Cucumber
         level: 90%
-        
       - name: Webdriver IO
         level: 70%
-
       - name: Javascript, Typescript
         level: 60%
-
       - name: Python
         level: 50%        
-
+      - name: SQL
+        level: 50%   
       - name: C++
         level: 30%
 footer: >
