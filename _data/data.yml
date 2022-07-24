@@ -134,11 +134,9 @@ experiences:
           Analyse sales data, do market research, prepare reports, train medical representatives to work with specific software, translating etc.
           (2005-2007 titles were: Pharmaceutical Department, Assistant of Head of OTC Department and Pharmaceutical Department, Marketing Assistant)
 projects:
-    title: Projects
+    title: Courses
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      You
     assignments:
       - title: Velocity
         link: "#hook"
@@ -148,61 +146,58 @@ projects:
         link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
 publications:
-    title: Publications
+    title: Certifications
     intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
+      - title: Certified LeSS Practitioner
         link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+        authors: The LeSS Company
+        conference: 2019
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: ISTQB Certified Tester - Foundation Level Extension, Agile Tester
         link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+        authors: iSQI Group
+        conference: 2016
 
-      - title: A syntax directed compiler for Algol 60
+      - title: ISQTB Certified Tester - Foundation Level
         link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        authors: iSQI Group
+        conference: 2015
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: JIRA, Pivotal Tracker
+        level: 100%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Agile, Scrum
+        level: 100%
 
-      - name: Angular
-        level: 98%
+      - name: git, gitlab, Bitbucket
+        level: 80%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: Jenkins
+        level: 70%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Allure
+        level: 70%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Cucumber
+        level: 90%
+        
+      - name: Webdriver IO
+        level: 70%
+
+      - name: Javascript, Typescript
+        level: 50%
+        
+      - name: Python
+        level: 50%        
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
