@@ -155,10 +155,8 @@ publications:
 projects:
     title: Courses
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
+      - title: Web portal development. Modern web technologies for software development
+        tagline: Riga Technical University
       - title: DevStudio
         link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
