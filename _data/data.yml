@@ -51,22 +51,23 @@ education:
       university: University of Latvia
       time: 2012 - 2015
       details: |
-        - Specialization: Clinical Psychology
+       - Specialization: Clinical Psychology
+       - One semester via ERASMUS exchange agreement in Mykolas Romeris University, Lithuania (Studies taught in English)
     - degree: Bachelor's degree, Psychology
       university: University of Latvia
       time: 2009 - 2012
       details: |
-       - Specialization: General Psychology
+        Specialization: General Psychology
     - degree: Bachelor's degree, Business Administration
       university: University of Latvia
       time: 2003 - 2007
       details: |
-        - Specialization: Business Informatatics
+        Specialization: Business Informatatics
     - degree:  Secondary education
       university: Rigas Imantas secondary school
       time: 1991 - 2003
       details: |
-        - Specialization: mathematics, natural sciences and technology
+        Specialization: mathematics, natural sciences and technology
 experiences:
     - role: Lead Developer
       time: 2015 - Present
