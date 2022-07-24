@@ -133,18 +133,6 @@ experiences:
       details: |
           Analyse sales data, do market research, prepare reports, train medical representatives to work with specific software, translating etc.
           (2005-2007 titles were: Pharmaceutical Department, Assistant of Head of OTC Department and Pharmaceutical Department, Marketing Assistant)
-projects:
-    title: Courses
-    intro: >
-      You
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
 
 publications:
     title: Certifications
@@ -163,6 +151,17 @@ publications:
         link: https://www.istqb.org/certifications/certified-tester-foundation-level
         authors: iSQI Group
         conference: 2015
+
+projects:
+    title: Courses
+    assignments:
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+      - title: DevStudio
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
 
 skills:
     title: Skills &amp; Proficiency
@@ -190,10 +189,12 @@ skills:
         level: 70%
 
       - name: Javascript, Typescript
-        level: 50%
-        
+        level: 60%
+
       - name: Python
         level: 50%        
 
+      - name: C++
+        level: 30%
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
