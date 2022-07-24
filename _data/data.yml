@@ -148,23 +148,19 @@ projects:
 
 publications:
     title: Certifications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
     papers:
       - title: Certified LeSS Practitioner
-        link: "#"
+        link: https://less.works/courses/less-practitioner
         authors: The LeSS Company
         conference: 2019
 
       - title: ISTQB Certified Tester - Foundation Level Extension, Agile Tester
-        link: "#"
+        link: https://www.istqb.org/certifications/agile-tester
         authors: iSQI Group
         conference: 2016
 
-      - title: ISQTB Certified Tester - Foundation Level
-        link: "#"
+      - title: ISTQB Certified Tester - Foundation Level
+        link: https://www.istqb.org/certifications/certified-tester-foundation-level
         authors: iSQI Group
         conference: 2015
 
