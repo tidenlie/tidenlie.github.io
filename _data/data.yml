@@ -69,21 +69,15 @@ education:
       details: |
         Specialization: mathematics, natural sciences and technology
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Quality assurance engineer
+      time: 2020 - Present
+      company: Evolution
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        Test
+          - Business field: video-streamed Live Dealer gaming
+          - Manual frontend (Web UI and mobile) and Backend testing
+          - Visual and e2e automated tests creation and maintenance
+          - Technologies, skills: Cucumber, WebdriverIO, Typescript, GitLab, GiT, Jenkins, JIRA
     - role: Senior Software Engineer
       time: 2014 - 2015
       company: Google, London
