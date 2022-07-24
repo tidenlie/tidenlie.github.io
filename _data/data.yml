@@ -81,28 +81,58 @@ experiences:
           - Manual frontend (Web UI and mobile) and Backend testing
           - Visual and e2e automated tests creation and maintenance
           - Technologies, skills: Cucumber, WebdriverIO, Typescript, GitLab, GiT, Jenkins, JIRA
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Senior Test Engineer
+      company: TietoEvery
+      time: 2019 - 2020
+      business field: Payment card industry
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        - Main focus on Acquiring solution functional testing. 
+        - Automated tests creation and maintenance
+        - Technologies, skills: pytest, Selenium, Bitbucket, GiT, Jenkins, JIRA
+    - role: Scrum Master
+      company: TietoEvery
+      time: 2018 - 2019
+      business field: Payment card industry
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Scrum master role within LeSS (Large Scale Scrum) framework
+    - role: Test Engineer
+      company: TietoEvery
+      time: 2017 - 2019
+      business field: Payment card industry
+      details: |
+        - Main focus on Acquiring solution functional testing. 
+        - Automated tests creation and maintenance
+        - Technologies, skills: pytest, Selenium, Bitbucket, GiT, Jenkins, JIRA
+    - role: Functional Consultant
+      company: TietoEvery
+      time: 2013 - 2016
+      details: |
+        - Involvement in web-development projects using Agile methodologies
+        - Expertise of functionality, functional testing, user training
+        - Activities which are related with system development (analyzing customer requirements, testing, writing user stories, tests, user manuals)
+        - User support, maintenance, investigation, managing and coordination of requests and incidents, including Tieto internal web applications of Oracle-based ERP system
+        - Communication with users, consulting them
+        - Communication with Oracle support specialists
+    - role: Master Data Maintenance (MDM) specialist
+      company: TietoEvery
+      time: 2012 - 2013
+      details: |
+        - Master data maintenance in Oracle-based ERP system. Ensure entered data quality and accuracy. Develop data quality checks for various finance master data entities
+        - Maintenance of Customer Master Data (including billing information and setups)
+        - Maintenance of Finance Master Data (accounts, project templates, cost rates etc.)
+        - User support
+        - Provide Oracle SQL introduction courses/ training sessions (SQL select queries, work with SQL Developer
+    - role: Latvian proofreader (freelance)
+      company: Skrivanek
+      time: 2010 - 2015
+      details: |
+         Proofreader + editor + terminologist
+    - role: Project Manager at Pharmaceutical Department
+      company: Sirowa
+      time: 2005 - 2009
+      details: |
+          Analyse sales data, do market research, prepare reports, train medical representatives to work with specific software, translating etc.
+          (2005-2007 titles were: Pharmaceutical Department, Assistant of Head of OTC Department and Pharmaceutical Department, Marketing Assistant)
 projects:
     title: Projects
     intro: >
