@@ -47,18 +47,22 @@ career-profile:
       using Agile methodologies, also within LeSS (Large Scale Scrum) framework
       Experience writing automated tests (pytest, Selenium) as well cellent knowledge of psychology
 education:
-    - degree: Master's degree with Excellence (red diploma), Psychology
+    - degree: Master's degree with Excellence (red diploma), Psychology with specialization in Clinical Psychology
       university: University of Latvia
       time: 2012 - 2015
       details: |
-        Specialization: Clinical Psychology
-        One semester via ERASMUS exchange agreement in Mykolas Romeris University, Lithuania (Studies taught in English)
+        One semester via ERASMUS exchange agreement, Psychology (Studies taught in English)
+    - degree: One semester via ERASMUS exchange agreement, Psychology (Studies taught in English)
+      university: Mykolas Romeris University (Lithuania)
+      time: 2014 - 2014
+      details: |
+        Specialization: General Psychology
     - degree: Bachelor's degree, Psychology
       university: University of Latvia
       time: 2009 - 2012
       details: |
         Specialization: General Psychology
-    - degree: Bachelor's degree, Business Administration
+    - degree: Bachelor's degree, Business Administration with specialization in Business Informatics
       university: University of Latvia
       time: 2003 - 2007
       details: |
